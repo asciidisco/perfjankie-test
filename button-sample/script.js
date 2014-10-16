@@ -1,0 +1,1 @@
+//document.getElementsByTagName('body')[0].style.background ='-webkit-linear-gradient(left, #ff6868 0%,#8eb92a 58%,#b5b72a 69%,#b5b72a 69%,#72aa00 86%,#9ecb2d 100%)';

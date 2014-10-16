@@ -1,0 +1,22 @@
+{
+  "name": "perfjankie-test",
+  "version": "0.0.1",
+  "description": "perfjankie demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asciidisco/perfjankie-test.git"
+  },
+  "author": "Sebastian Golasch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asciidisco/perfjankie-test/issues"
+  },
+  "homepage": "https://github.com/asciidisco/perfjankie-test",
+  "dependencies": {
+    "perfjankie": "^0.1.16"
+  }
+}
